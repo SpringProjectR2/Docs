@@ -8,7 +8,8 @@ Täältä löydät kaikki projektiin liittyvän dokumentaation.
 *Hyvin yksinkertainen. Muokataan paremmaksi myöhemmin.*
 
 ### Käyttötapauskaavio
-![Käyttötapauskaavio](https://github.com/user-attachments/assets/72a7040a-cf5d-4ba2-9cb7-20ec8bc884b1)
+![Käyttötapauskaavio](https://github.com/user-attachments/assets/e1e44e25-dbc3-49e0-ac68-f7834011b156).
+
 
 *Kaikki tärkeimmät. Muokataan, jos tulee jotain lisää.*
 
