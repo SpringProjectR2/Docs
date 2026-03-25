@@ -13,3 +13,6 @@ Täältä löydät kaikki projektiin liittyvän dokumentaation.
 *Kaikki tärkeimmät. Muokataan, jos tulee jotain lisää.*
 
 ### Sekvenssikaavio
+![Sekvenssikaavio](https://github.com/user-attachments/assets/b0e2ea5f-90ed-493b-a11f-4cb26d23767f).
+
+*Onko lisättävää?*
