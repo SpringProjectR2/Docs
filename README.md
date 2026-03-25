@@ -3,7 +3,7 @@
 Täältä löydät kaikki projektiin liittyvän dokumentaation.
 
 ### Järjestelmäkaavio
-![Järjestelmäkaavio](https://github.com/user-attachments/assets/f22be9f4-8a6d-4f69-a559-6c73444f5b8b
+![Järjestelmäkaavio](https://github.com/user-attachments/assets/f22be9f4-8a6d-4f69-a559-6c73444f5b8b)
 
 *Hyvin yksinkertainen. Muokataan paremmaksi myöhemmin.*
 
