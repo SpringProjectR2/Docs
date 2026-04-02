@@ -22,3 +22,8 @@ Täältä löydät kaikki projektiin liittyvän dokumentaation.
 ![Luokkakaavio](https://github.com/user-attachments/assets/1e7cf58e-e6eb-4f3d-b8c8-a8f193d720df).
 
 *Alustava luokkakaavio.*
+
+### Tietovuokaavio
+![Tietovuokaavio](https://github.com/user-attachments/assets/276f629b-eab7-45cf-a25f-5d310f1f68c8).
+
+*Alustava tietovuokaavio.*
