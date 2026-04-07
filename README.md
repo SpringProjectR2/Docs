@@ -3,13 +3,12 @@
 Täältä löydät kaikki projektiin liittyvän dokumentaation.
 
 ### Järjestelmäkaavio
-![Järjestelmäkaavio](https://github.com/user-attachments/assets/f22be9f4-8a6d-4f69-a559-6c73444f5b8b)
+![Järjestelmäkaavio](https://github.com/user-attachments/assets/f0c22aea-0f9f-4762-a6be-2ad76dd422d5)
 
-*Hyvin yksinkertainen. Muokataan paremmaksi myöhemmin.*
+*Hieman päivitetty järjestelmäkaavio.*
 
 ### Käyttötapauskaavio
 ![Käyttötapauskaavio](https://github.com/user-attachments/assets/065099f0-7421-4b50-9c54-5fb3b2ba9366)
-
 
 *Kaikki tärkeimmät. Muokataan, jos tulee jotain lisää.*
 
