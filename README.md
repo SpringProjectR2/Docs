@@ -14,9 +14,9 @@ Täältä löydät kaikki projektiin liittyvän dokumentaation.
 *Kaikki tärkeimmät. Muokataan, jos tulee jotain lisää.*
 
 ### Sekvenssikaavio
-![Sekvenssikaavio](https://github.com/user-attachments/assets/b0e2ea5f-90ed-493b-a11f-4cb26d23767f)
+![Sekvenssikaavio](https://github.com/user-attachments/assets/aefbb86e-c1b1-484d-841e-9b7bd339eac0)
 
-*Onko lisättävää?*
+*Hieman parannettu versio.*
 
 ### Luokkakaavio
 ![Luokkakaavio](https://github.com/user-attachments/assets/1e7cf58e-e6eb-4f3d-b8c8-a8f193d720df).
