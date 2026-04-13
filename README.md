@@ -18,7 +18,7 @@ Täältä löydät kaikki projektiin liittyvän dokumentaation.
 *Hieman parannettu versio.*
 
 ## Luokkakaavio
-![Luokkakaavio](https://github.com/user-attachments/assets/1e7cf58e-e6eb-4f3d-b8c8-a8f193d720df).
+![Luokkakaavio](https://github.com/user-attachments/assets/1e7cf58e-e6eb-4f3d-b8c8-a8f193d720df)
 
 *Alustava luokkakaavio.*
 
@@ -29,9 +29,9 @@ Täältä löydät kaikki projektiin liittyvän dokumentaation.
 ### Frontendin tietovuokaaviot
 
 #### Kirjautuminen
-![Kirjautuminen](https://github.com/user-attachments/assets/27eddbaa-8546-4257-9578-b2b7ac9bcc27).
+![Kirjautuminen](https://github.com/user-attachments/assets/27eddbaa-8546-4257-9578-b2b7ac9bcc27)
 
 #### Päävalikko
-![Päävalikko](https://github.com/user-attachments/assets/1ccd1f21-b75f-486e-86a1-b7724fcec1eb).
+![Päävalikko](https://github.com/user-attachments/assets/5d1fde38-7076-44d6-8019-acc7e1900dc2)
 
 *Alustavat tietovuokaaviot*
