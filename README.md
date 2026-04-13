@@ -29,7 +29,7 @@ Täältä löydät kaikki projektiin liittyvän dokumentaation.
 ### Frontendin tietovuokaaviot
 
 #### Kirjautuminen
-![Kirjautuminen](https://github.com/user-attachments/assets/7502591e-7ada-4d5b-a3ab-a0ec13a0296a).
+![Kirjautuminen](https://github.com/user-attachments/assets/27eddbaa-8546-4257-9578-b2b7ac9bcc27).
 
 #### Päävalikko
 ![Päävalikko](https://github.com/user-attachments/assets/c7485ec3-3ddd-4f2a-a6c1-5ba1220b1d08).
