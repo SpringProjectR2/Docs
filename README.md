@@ -31,4 +31,7 @@ Täältä löydät kaikki projektiin liittyvän dokumentaation.
 #### Kirjautuminen
 ![Kirjautuminen](https://github.com/user-attachments/assets/7502591e-7ada-4d5b-a3ab-a0ec13a0296a).
 
+#### Päävalikko
+![Päävalikko](https://github.com/user-attachments/assets/c7485ec3-3ddd-4f2a-a6c1-5ba1220b1d08).
+
 *Alustavat tietovuokaaviot*
