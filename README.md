@@ -34,4 +34,7 @@ Täältä löydät kaikki projektiin liittyvän dokumentaation.
 #### Päävalikko
 ![Päävalikko](https://github.com/user-attachments/assets/5d1fde38-7076-44d6-8019-acc7e1900dc2)
 
+#### Sensorivalikko
+![Sensorivalikko](https://github.com/user-attachments/assets/cb3afd5a-19f5-410e-ba88-5db1fa240e82)
+
 *Alustavat tietovuokaaviot*
