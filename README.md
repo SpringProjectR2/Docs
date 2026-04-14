@@ -38,3 +38,10 @@ Täältä löydät kaikki projektiin liittyvän dokumentaation.
 ![Sensorivalikko](https://github.com/user-attachments/assets/cb3afd5a-19f5-410e-ba88-5db1fa240e82)
 
 *Alustavat tietovuokaaviot*
+
+
+## UI Suunnitelma
+
+#### Hälytysvalikko
+
+![Hälytysvalikko](https://github.com/user-attachments/assets/b9eb7029-4939-407e-8653-e6d249d085e9)
